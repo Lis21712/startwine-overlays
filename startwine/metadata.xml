@@ -1,0 +1,9 @@
+<pkgmetadata>
+    <maintainer type="person">
+        <name>lIS217</name>
+        <email>pri3rak217@yandex.ru</email>
+    </maintainer>
+<upstream>
+        <remote-id type="github">LIS217/startwine-overlays</remote-id>
+    </upstream>
+</pkgmetadata>
