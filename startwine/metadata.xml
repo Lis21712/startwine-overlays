@@ -1,9 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
     <maintainer type="person">
-        <name>lIS217</name>
+        <name>Lis21712</name>
         <email>pri3rak217@yandex.ru</email>
+        <description>Maintainer of StartWine overlay for Gentoo</description>
     </maintainer>
-<upstream>
-        <remote-id type="github">LIS217/startwine-overlays</remote-id>
+    <upstream>
+        <remote-id type="github">Lis21712/startwine-overlays</remote-id>
+        <remote-id type="github">RusNor/StartWine-Launcher</remote-id>
     </upstream>
+    <longdescription>
+        StartWine Launcher — инструмент для запуска Windows-игр и приложений на Linux.
+        Оверлей предоставляет ebuild для простой установки StartWine через Portage.
+    </longdescription>
 </pkgmetadata>
