@@ -70,31 +70,3 @@ Gentoo Overlays List / Список оверлеев Gentoo
 This project is licensed under the GNU General Public License v3.0 – see the LICENSE file for details.
 
 Happy gaming! / Удачных игр! 🎮
-
-text
-
----
-
-## ✅ Как загрузить на GitHub
-
-1. Откройте `https://github.com/Lis21712/startwine-overlays/blob/main/README.md`
-2. Нажмите **Edit** (карандаш ✏️)
-3. **Полностью замените** содержимое файла на текст выше
-4. Внизу нажмите **Commit changes**
-
----
-
-## 📌 Что теперь есть в README
-
-| Раздел | Содержание |
-|--------|-------------|
-| **Installation / Установка** | Подключение оверлея и установка |
-| **Updating / Обновление** | Одна и две команды на выбор |
-| **Uninstalling / Удаление** | Удаление пакета + очистка конфигов |
-| **Dependencies / Зависимости** | Список основных зависимостей |
-| **Support / Поддержка** | Контакты и ссылка на Issues |
-| **Links / Ссылки** | На официальный StartWine и реестр Gentoo |
-
----
-
-**Готово!** Теперь у вас полный README. Если нужны ещё правки — пишите.
